@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				69
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				204
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				0
+			],
+			"anim": "Fart",
+			"fps": 24,
+			"name": "Fart",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PopoZan",
+	"position": [
+		170,
+		230
+	],
+	"healthicon": "popozan_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		133,
+		112
+	],
+	"camera_position": [
+		-200,
+		-60
+	],
+	"sing_duration": 7.89999999999999,
+	"scale": 1.7
+}
